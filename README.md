@@ -13,3 +13,7 @@ One of the problems I ran into as a developer hired was consolidating the CSS to
 ```md
 ![screen-shot-of-the-horiseon-website](assets/images//readme-screenshot.png)
 ```
+
+## Usage
+
+Please find the link of the finished project [here](https://oceanlatte.github.io/horiseon-refactor/)
