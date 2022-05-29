@@ -8,6 +8,17 @@ body {
   background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+  
+p {
+    font-size: 16px;
+}
+
+/* Header Styling Starts */
+
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -42,15 +53,6 @@ header nav ul li {
   margin-left: 25px;
 }
 
-a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-p {
-  font-size: 16px;
-}
-
 .hero {
   height: 800px;
   width: 100%;
@@ -69,6 +71,8 @@ p {
   float: right;
   margin-left: 25px;
 }
+
+/* Article Styling Starts */
 
 .content {
   width: 75%;
@@ -94,6 +98,8 @@ p {
   font-size: 36px;
 }
 
+/* Benefits Section Styling Starts */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -117,6 +123,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
   }
+
+/* Footer Styling Starts */
 
 footer {
   padding: 30px;
